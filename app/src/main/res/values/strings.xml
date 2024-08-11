@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Inspiria</string>
+
+    <string name="app_name_inspiria">Inspiria</string>
+    <string name="splash_description">Evoke a realm of inspiration</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="categories">Categories</string>
+    <string name="favorites">Favorites</string>
+    <string name="bookmarks">Bookmarks</string>
+
+    <string name="motivation">Motivation</string>
+    <string name="author">Top Author\'s</string>
+    <string name="quote_of_the_day">Quote of Day</string>
+    <string name="breathing">Breathing</string>
+
+
+    <string name="explore_quote_1">Whatever you are, be a good one.</string>
+    <string name="explore_author_1">Abraham Lincoln</string>
+
+    <string name="explore_quote_2">A ship in harbor is safe, but that is not what ships are built for.</string>
+    <string name="explore_author_2">John A. Shedd</string>
+
+    <string name="explore_quote_3">Great things are done by a series of small things brought together.</string>
+    <string name="explore_author_3">Vincent van Gogh</string>
+
+
+    <string name="explore_quote_4">Fall seven times, stand up eight.</string>
+    <string name="explore_author_4">Japanese proverb</string>
+
+    <string name="explore_quote_5">The best revenge is massive success.</string>
+    <string name="explore_author_5">Frank Sinatra</string>
+
+    <string name="explore_quote_6">Keep your face always toward the sunshine — and shadows will fall behind you.</string>
+    <string name="explore_author_6">Walt Whitman</string>
+
+    <string name="explore_quote_7">In three words I can sum up everything I’ve learned about life: It goes on.</string>
+    <string name="explore_author_7">Robert Frost</string>
+
+    <string name="explore_quote_8">Life shrinks or expands in proportion to one’s courage.</string>
+    <string name="explore_author_8">Anaïs Nin</string>
+
+    <string name="explore_quote_9">In the middle of difficulty lies opportunity.</string>
+    <string name="explore_author_9">Albert Einstein</string>
+
+    <string name="explore_quote_10">The secret of getting ahead is getting started.</string>
+    <string name="explore_author_10">Mark Twain</string>
+    <string name="inspiration">Inspiration</string>
+    <string name="life">Life</string>
+    <string name="success">Success</string>
+    <string name="dreams">Dreams</string>
+    <string name="kindness">Kindness</string>
+    <string name="work">Work</string>
+    <string name="excellence">Excellence</string>
+    <string name="failure">Failure</string>
+    <string name="pain">Pain</string>
+    <string name="future">Future</string>
+
+
+    <string name="author_1">Tony Robbins</string>
+    <string name="author_2">Zig Ziglar</string>
+    <string name="author_3">Napoleon Hill</string>
+    <string name="author_4">Jim Rohn</string>
+    <string name="author_5">Norman Vincent Peale</string>
+    <string name="author_5_short">Norman V.Peale</string>
+    <string name="author_6">Dale Carnegie</string>
+    <string name="author_7">Les Brown</string>
+    <string name="author_8">Wayne Dyer</string>
+    <string name="author_9">Brian Tracy</string>
+    <string name="author_10">Helen Keller</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="acknowledgments">Acknowledgments</string>
+    <string name="schedule_notification">Schedule Notification</string>
+    <string name="enable_notification">Enable Notification</string>
+    <string name="theme">Theme</string>
+    <string name="channel_description">Motivation notification channel</string>
+
+    <string name="notification_permission_required">Notification permission required</string>
+    <string name="to_show_daily_dua_reminder_notification_permission_is_required">To show daily dua reminder notification permission is required</string>
+    <string name="grant">Grant</string>
+    <string name="deny">Deny</string>
+
+</resources>
